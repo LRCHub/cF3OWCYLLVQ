@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sultans Of Swing",
+  "base_artist": "Dire Straits",
+  "createdAt": "2026-02-28T06:36:49.354312Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sultans Of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/01_Sultans_Of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sultans of Swing (Live At The Royal Albert Hall)",
+      "artist": "Mark Knopfler",
+      "has_synced": true,
+      "path": "select/02_Sultans_of_Swing_(Live_At_The_Royal_Albert_Hall)_Mark_Knopfler.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sultans Of Swing - Live At Hammersmith Odeon, London/1983",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/03_Sultans_Of_Swing_-_Live_At_Hammersmith_Odeon,_London_1983_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sultans Of Swing (Live At Hammersmith Odeon, London\u00001983)",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/04_Sultans_Of_Swing_(Live_At_Hammersmith_Odeon,_London\u00001983)_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/05_Sultans_of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/06_Sultans_of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/07_Sultans_of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sultans Of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/08_Sultans_Of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/09_Sultans_of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sultans Of Swing (Explicit)",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/10_Sultans_Of_Swing_(Explicit)_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/11_Sultans_of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/12_Sultans_of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sultans Of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/13_Sultans_Of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sultans Of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/14_Sultans_Of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sultans Of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/15_Sultans_Of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sultans Of Swing",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/16_Sultans_Of_Swing_Dire_Straits.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "has_synced": false,
+      "path": "select/pl_01_Sultans_of_Swing_Dire_Straits.txt"
+    }
+  ]
+}
